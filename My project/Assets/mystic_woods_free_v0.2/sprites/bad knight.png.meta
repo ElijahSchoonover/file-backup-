@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: adf35bf6234be57468e484fe65db0c0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7810409625890632334
+    second: bad knight_0
+  - first:
+      213: 1675654740975133721
+    second: bad knight_1
+  - first:
+      213: -3048322170819609331
+    second: bad knight_2
+  - first:
+      213: -2877248574387610566
+    second: bad knight_3
+  - first:
+      213: -1417940704634640904
+    second: bad knight_4
+  - first:
+      213: -82447464725788295
+    second: bad knight_5
+  - first:
+      213: -3414410524843196419
+    second: bad knight_6
+  - first:
+      213: 6167952092057398352
+    second: bad knight_7
+  - first:
+      213: 744932382434468398
+    second: bad knight_8
+  - first:
+      213: -7098248600339806138
+    second: bad knight_9
+  - first:
+      213: 3440087272398916552
+    second: bad knight_10
+  - first:
+      213: -6740630235210117130
+    second: bad knight_11
+  - first:
+      213: 2362017778814851208
+    second: bad knight_12
+  - first:
+      213: 3446474546785612812
+    second: bad knight_13
+  - first:
+      213: 6779955650366848805
+    second: bad knight_14
+  - first:
+      213: -4587553961327578339
+    second: bad knight_15
+  - first:
+      213: 6212518761136379735
+    second: bad knight_16
+  - first:
+      213: -8948927954733787564
+    second: bad knight_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bad knight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 16}
+        - {x: -5, y: 14}
+        - {x: -7, y: 8}
+        - {x: -8, y: -8}
+        - {x: -5, y: -15}
+        - {x: 8, y: -15}
+        - {x: 11, y: -11}
+        - {x: 10, y: 8}
+        - {x: 8.37833, y: 13.446274}
+        - {x: 5, y: 16}
+      - - {x: -8, y: -8}
+        - {x: -8, y: -8}
+        - {x: -7, y: -8}
+        - {x: -7, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d4f7a93d9db9390800000000000000
+      internalID: -7810409625890632334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad knight_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -9, y: -9}
+        - {x: -6, y: -15}
+        - {x: -4, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 16}
+        - {x: -8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914a502eb1f114710800000000000000
+      internalID: 1675654740975133721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad knight_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d7957e22f22b5d0800000000000000
+      internalID: -3048322170819609331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad knight_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c90297aa5f118d0800000000000000
+      internalID: -2877248574387610566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad knight_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 16}
+        - {x: -9, y: 11}
+        - {x: -9, y: -3}
+        - {x: -5, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -10}
+        - {x: 11, y: 12}
+        - {x: 9, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f56fa31176725ce0800000000000000
+      internalID: -1417940704634640904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad knight_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -7, y: 15}
+        - {x: -9, y: 5}
+        - {x: -9, y: -8}
+        - {x: -5, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9794368b7761bdef0800000000000000
+      internalID: -82447464725788295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad knight_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -7, y: 15}
+        - {x: -9, y: 5}
+        - {x: -9, y: -8}
+        - {x: -5, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffbd5dc7b39d90d0800000000000000
+      internalID: -3414410524843196419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad knight_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 7}
+        - {x: -9, y: -9}
+        - {x: -6, y: -15}
+        - {x: -4, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 16}
+        - {x: -8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c65be9fb7f89550800000000000000
+      internalID: 6167952092057398352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad knight_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 16}
+        - {x: -9, y: 10}
+        - {x: -9, y: -8}
+        - {x: -7, y: -14}
+        - {x: -2, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 12}
+        - {x: 9, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2221b41e08865a00800000000000000
+      internalID: 744932382434468398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad knight_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -7, y: 15}
+        - {x: -9, y: 5}
+        - {x: -9, y: -8}
+        - {x: -5, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64805519184fd7d90800000000000000
+      internalID: -7098248600339806138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad knight_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 10}
+        - {x: -9, y: -12}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 10, y: -15}
+        - {x: 12, y: -10}
+        - {x: 12, y: 6}
+        - {x: 10, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb0eabd525adbf20800000000000000
+      internalID: 3440087272398916552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad knight_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 16}
+        - {x: -10, y: 5}
+        - {x: -10, y: -7}
+        - {x: -5, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 14, y: -10}
+        - {x: 14, y: 9}
+        - {x: 12, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff0b04b3887472a0800000000000000
+      internalID: -6740630235210117130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad knight_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -10, y: 8}
+        - {x: -10, y: -13}
+        - {x: -8, y: -16}
+        - {x: 11, y: -16}
+        - {x: 14, y: -11}
+        - {x: 14, y: 8}
+        - {x: 12, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8889a63c7a297c020800000000000000
+      internalID: 2362017778814851208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad knight_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 10}
+        - {x: -9, y: -12}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 10, y: -15}
+        - {x: 12, y: -10}
+        - {x: 12, y: 6}
+        - {x: 10, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04f490175654df20800000000000000
+      internalID: 3446474546785612812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad knight_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 11}
+        - {x: -9, y: -8}
+        - {x: -7, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 11}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fb4050ebd371e50800000000000000
+      internalID: 6779955650366848805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad knight_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -10, y: 7}
+        - {x: -10, y: -15}
+        - {x: -5, y: -16}
+        - {x: 10, y: -16}
+        - {x: 14, y: -11}
+        - {x: 14, y: 4}
+        - {x: 9, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1332236afbb550c0800000000000000
+      internalID: -4587553961327578339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad knight_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -10, y: 7}
+        - {x: -10, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 2}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757dbfdd5ec473650800000000000000
+      internalID: 6212518761136379735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bad knight_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -9, y: 11}
+        - {x: -9, y: -8}
+        - {x: -7, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 11}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456978940750fc380800000000000000
+      internalID: -8948927954733787564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
